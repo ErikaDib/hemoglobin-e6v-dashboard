@@ -59,7 +59,7 @@ html, body, [class*="css"] {
 
 .block-container {
     max-width: 1480px;
-    padding-top: 0.9rem;
+    padding-top: 3rem;
     padding-bottom: 2rem;
 }
 
