@@ -436,11 +436,11 @@ if not pdb_text:
 st.markdown(f"""
 <div class="hero">
     <div class="hero-title">AI Based Structural Analysis of the Hemoglobin E6V Mutation</div>
-    <div class="hero-subtitle">Sickle Cell Disease • AlphaFold Structure • Streamlit Dashboard</div>
+    <div class="hero-subtitle">Sickle Cell Disease • AlphaFold Structure</div>
     <div class="hero-desc">
-        This dashboard presents a focused structural case study of the hemoglobin beta chain
-        mutation responsible for sickle cell disease. It combines protein visualization,
-        mutation analysis, and AlphaFold confidence data in one interface.
+        This dashboard explores the hemoglobin beta chain
+        mutation E6V responsible for sickle cell disease. It contains protein visualization,
+        mutation analysis, and the AlphaFold confidence data in one dashboard.
     </div>
 </div>
 """, unsafe_allow_html=True)
