@@ -37,7 +37,7 @@ associated with sickle cell disease.
 """
 
 PDB_PATH = Path("data/AF-P68871-F1-model_v6.pdb")
-RBC_IMAGE_PATH = Path("red-blood-cell.jpg")  # put your red blood cell image in the same folder as app.py
+RBC_IMAGE_PATH = Path("red-blood-cell.jpg") 
 
 # -----------------------------
 # Styling
